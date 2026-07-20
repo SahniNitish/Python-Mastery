@@ -39,8 +39,8 @@ python3 day01_hello.py        # run it
 
 | Day | Topic | Done |
 |-----|--------|------|
-| [[Day-00-Terminal-and-Vim\|0]] | Terminal + vim (create/edit/run files) | ☐ |
-| [[Day-01-Hello-Variables\|1]] | Hello world, variables, types | ☐ |
+| [[Day-00-Terminal-and-Vim\|0]] | Terminal + vim (create/edit/run files) |✅|
+| [[Day-01-Hello-Variables\|1]] | Hello world, variables, types |✅|
 | [[Day-02-Strings-Operators\|2]] | Strings & operators | ☐ |
 | [[Day-03-Conditionals\|3]] | if / elif / else | ☐ |
 | [[Day-04-Loops\|4]] | for & while loops | ☐ |
